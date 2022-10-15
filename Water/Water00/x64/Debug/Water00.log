@@ -1,3 +1,4 @@
 ﻿  main.cpp
+D:\C++Program\CG_Practical\WaterSimulate\Water\Water00\src\camera.h(75,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
 LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
   Water00.vcxproj -> D:\C++Program\CG_Practical\WaterSimulate\Water\x64\Debug\Water00.exe
